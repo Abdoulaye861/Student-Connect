@@ -1,0 +1,39 @@
+
+  .navigate{
+       background:#191918;
+       height:510px;
+       width: 20%;
+      }
+
+      ul{
+     
+       text-decoration:none;
+       list-style:none;
+       text-align:left;
+       padding: 5px;
+       width: 269px;
+      }
+
+      li {
+       
+       background-color:#444;
+       //boxShadow: 3px 3px 3px #fff;
+       text-decoration:none;
+       padding:10px;
+       margin:4px;
+       border-bottom: 1px Solid #d7254e;
+      }
+
+      a {
+      display:block;
+      text-decoration: none;
+      color:#fff;
+      font-size: 12px;
+      }
+
+      li:hover {
+       backgroundColor: #729EBF;
+      }
+
+      
+    

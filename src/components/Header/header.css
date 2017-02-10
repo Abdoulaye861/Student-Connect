@@ -1,0 +1,40 @@
+  .Header{
+    background-color: #d7254e;
+    height: 75px;
+    display:flex;
+    box-shadow: 0px 1px 0px 0px rgba(0,0,0,.25);  
+  }
+
+.img1{
+ padding-top: 26px;
+ padding-left: 75%;
+
+} 
+
+.img2{
+ padding-top: 25px;
+ padding-left: 1%;
+
+} 
+
+
+.img1 img{
+     width: 25px;
+     height: 25px;
+  }
+ 
+ .img2 img{
+     width: 25px;
+     height: 25px;
+  }
+
+
+
+  h1{
+
+  	font-family: Helvetica Neue;
+    font-size: 22;
+    padding-left: 22px;
+    color: #333;
+  }
+  
