@@ -1,0 +1,27 @@
+  .main-content{
+
+     width: 80%;
+     position: relative;
+     float: right;
+     
+     height: 508px;
+     padding-left: 120px;
+     padding-top: 100px;
+
+   }
+
+   .input-search {
+    width: 820px;
+    box-sizing: border-box;
+    border: 1px solid #444;
+    border-radius: 3px;
+    font-size: 16px;
+    background-color: #ffffff;
+    background-image: url('/img/icon.png');
+    background-position: 8px 18px; 
+    background-repeat: no-repeat;
+    padding:  14px 7px 9px 27px;
+    font-family: Helvetica Neue;
+    color: #bbb;
+    border: 1px solid #d7254e;
+ }
